@@ -1,0 +1,7 @@
+<!--component html goes here -->
+
+
+<div class="wrapper">
+    <article   *ngFor="let item of articleList;let j = index" [indexRowParent] = "j"  [articleItem]="item" [typeTab]="1"   (selectedItemToRemove) = "removeFromFavorite($event)"  ></article>
+</div>
+  

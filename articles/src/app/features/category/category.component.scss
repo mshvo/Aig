@@ -1,0 +1,74 @@
+// component css goes here
+
+.wrapperCategory
+{
+  width: 100%;
+  .multipleColList
+  {
+    display: none;
+
+  }
+  
+  .cat-name
+  {
+    width: 90%;
+  }
+
+  mat-list-item {
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .icon-container {
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media only  screen and (min-width:768px)
+{
+
+
+}
+
+
+@media only  screen and (min-width:1000px)
+{
+    .wrapperCategory
+    { 
+      
+      .oneColList
+      {
+        display: none;
+      }
+      .multipleColList
+      {
+        display: block;
+      }
+    }
+
+
+    .container {
+        display: flex;
+        justify-content: center;
+      }
+      .list {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1000px;
+       
+        margin-top: 30px;
+      }
+      .item {
+        width: 333px;
+        margin-bottom: 100px;
+        
+        div 
+        { border-bottom: 1px solid #000000 ;
+            width: 180px;
+        }
+      }
+}
+
+
+    

@@ -1,0 +1,31 @@
+// component css goes here
+
+.wrapper
+{
+    width:100%;
+
+}
+
+
+@media only  screen and (min-width:768px)
+{
+    
+
+   .wrapper
+   {
+     width:600px;
+     margin: 0 auto;
+   
+   }
+}
+
+
+@media only  screen and (min-width:1000px)
+{
+    .wrapper
+    {
+     
+      width:1000px;
+
+    }
+}

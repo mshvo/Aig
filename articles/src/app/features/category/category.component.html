@@ -1,0 +1,16 @@
+<!--component html goes here -->
+
+<div class = 'wrapperCategory'>
+    <div class='oneColList'> 
+        <mat-list *ngFor="let item of categoryList;">
+            <category-item-m [categoryItem]='item'></category-item-m>
+          </mat-list>
+    </div>
+    <div class='multipleColList'>
+        <div class="container">
+            <div class="list" >
+                <category-item-d *ngFor="let item of categoryList;" [categoryItem]='item'></category-item-d>
+            </div> 
+        </div>
+     </div>
+</div>

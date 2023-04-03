@@ -1,0 +1,10 @@
+{
+    "env": "d",
+    "ver" : "1.0",
+    "domainurl":"http://localhost:5210/",
+    "domainurl_faq":"",
+    "clientid": "",
+    "authority": "",
+    "redirecturl": "http://localhost:4200" 
+
+}

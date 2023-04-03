@@ -1,0 +1,22 @@
+<!--component html goes here -->
+
+   
+   <div class="row" [ngClass]="indexRowParent % 2 === 0 ? 'row trA':'row trB'" >
+    <mat-progress-bar mode="indeterminate"  *ngIf="isShowProgressBar == 1"></mat-progress-bar>
+    <div class="img-info"> 
+    <div class="content">
+      <h2>{{articleItem.title}}</h2>
+      <div class="addToFavorite">
+         <button mat-raised-button color="primary" *ngIf="typeTab == 0" (click)="addToFavorite()" >Add Favorite</button>
+         <button mat-raised-button color="primary" *ngIf="typeTab == 1"  (click)="removeFromFavorite()" >Remove Favorite</button>
+      </div> 
+     </div> 
+     <p>
+        {{articleItem.description}}
+     </p>
+    </div>
+    <img  class="img-me" src="{{articleItem.image}}" >
+   
+   </div>
+ 
+  

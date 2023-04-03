@@ -1,0 +1,12 @@
+C:\p4client\MainDev\Aig\Aig.Common.DM\bin\Debug\net6.0\Aig.Common.DM.deps.json
+C:\p4client\MainDev\Aig\Aig.Common.DM\bin\Debug\net6.0\Aig.Common.DM.dll
+C:\p4client\MainDev\Aig\Aig.Common.DM\bin\Debug\net6.0\Aig.Common.DM.pdb
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\Aig.Common.DM.csproj.AssemblyReference.cache
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\Aig.Common.DM.GeneratedMSBuildEditorConfig.editorconfig
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\Aig.Common.DM.AssemblyInfoInputs.cache
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\Aig.Common.DM.AssemblyInfo.cs
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\Aig.Common.DM.csproj.CoreCompileInputs.cache
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\Aig.Common.DM.dll
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\refint\Aig.Common.DM.dll
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\Aig.Common.DM.pdb
+C:\p4client\MainDev\Aig\Aig.Common.DM\obj\Debug\net6.0\ref\Aig.Common.DM.dll

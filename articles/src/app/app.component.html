@@ -1,0 +1,16 @@
+
+<p class="img-banner" >
+    <mat-toolbar>
+      <span>AIG Articles 2023</span>
+    </mat-toolbar>
+</p>
+  
+
+<mat-tab-group [(selectedIndex)]="demo1TabIndex" (click)="onTabclick()">
+    <mat-tab label="Category"  ></mat-tab>
+    <mat-tab label="Favorites" ></mat-tab>
+</mat-tab-group>
+<div class="wrapper">
+    <router-outlet class="mainRoute"></router-outlet>
+</div>
+
